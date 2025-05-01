@@ -1,13 +1,7 @@
-package guru.qa.niffler.jupiter;
+package guru.qa.niffler.jupiter.spending;
 
-import guru.qa.niffler.api.SpendApiClient;
-import guru.qa.niffler.model.CategoryJson;
-import guru.qa.niffler.model.CurrencyValues;
 import guru.qa.niffler.model.SpendJson;
 import org.junit.jupiter.api.extension.*;
-import org.junit.platform.commons.support.AnnotationSupport;
-
-import java.util.Date;
 
 public class SpendingResolverExtension implements ParameterResolver {
 
