@@ -1,7 +1,4 @@
-package guru.qa.niffler.jupiter;
-
-import org.junit.jupiter.api.extension.BeforeAllCallback;
-import org.junit.jupiter.api.extension.ExtensionContext;
+package guru.qa.niffler.jupiter.extention;
 
 import org.junit.jupiter.api.extension.BeforeAllCallback;
 import org.junit.jupiter.api.extension.ExtensionContext;
